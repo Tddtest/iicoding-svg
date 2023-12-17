@@ -1,0 +1,25 @@
+{
+  "name": "@iicoding/svg",
+  "version": "0.0.1",
+  "sideEffects": false,
+  "description": "自定义 icon 组件库 基础 svg 库",
+  "homepage": "https://github.com/Tddtest/svg/",
+  "license": "MIT",
+  "main": "dist/lib/index.js",
+  "module": "dist/es/index.js",
+  "files": [
+    "dist/lib",
+    "dist/es"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tddtest/svg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ant-design/ant-design-icons/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}
