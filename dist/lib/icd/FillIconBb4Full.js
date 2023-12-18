@@ -1,0 +1,5 @@
+"use strict";
+// This icon file is generated automatically.
+Object.defineProperty(exports, "__esModule", { value: true });
+var FillIconBb4Full = { "icon": function render(primaryColor, secondaryColor) { return { "tag": "svg", "attrs": { "fill": "currentColor", "overflow": "hidden", "style": "width:1em;height:1em;vertical-align:middle", "viewBox": "0 0 1024 1024", "focusable": "false" }, "children": [{ "tag": "path", "attrs": { "d": "M196.6 122.52h629.1q93.65 0 93.65 93.65V663.6q0 93.65-93.65 93.65H196.6q-93.64 0-93.64-93.65V216.17q0-93.65 93.65-93.65z", "fill": "#42B4FA" } }, { "tag": "path", "attrs": { "d": "M511.13 240.23a199.68 199.68 0 10199.68 199.68 199.68 199.68 0 00-199.68-199.68zM467.1 464.9a69.07 69.07 0 1169.07-69.07 69.07 69.07 0 01-69.07 69.07z", "fill": "#FFF" } }, { "tag": "path", "attrs": { "d": "M790.94 906.55H244.02a41.83 41.83 0 010-83.61h546.92a41.83 41.83 0 010 83.6z", "fill": "#92DBFF" } }] }; }, "name": "Fill_icon_bb-4", "theme": "full" };
+exports.default = FillIconBb4Full;

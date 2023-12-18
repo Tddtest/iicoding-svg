@@ -1,0 +1,5 @@
+"use strict";
+// This icon file is generated automatically.
+Object.defineProperty(exports, "__esModule", { value: true });
+var FullIconAa12Full = { "icon": function render(primaryColor, secondaryColor) { return { "tag": "svg", "attrs": { "fill": "currentColor", "overflow": "hidden", "style": "width:1em;height:1em;vertical-align:middle", "viewBox": "0 0 1024 1024", "focusable": "false" }, "children": [{ "tag": "path", "attrs": { "d": "M656.47 793.46l-350.7-350.7 252-252.02a247.96 247.96 0 01350.53.14 247.96 247.96 0 01.19 350.57l-252.02 252z", "fill": "#FFA4A4" } }, { "tag": "path", "attrs": { "d": "M119 190.7a247.96 247.96 0 01350.67 0l394.62 394.62-306.03 306.03a63.18 63.18 0 01-89.35 0L118.96 541.4a247.96 247.96 0 01.04-350.7z", "fill": "#F66462" } }, { "tag": "path", "attrs": { "d": "M369.4 612.1a40.96 40.96 0 01-28.92-11.93L196.1 456.4a40.96 40.96 0 0157.8-58.06L398.3 542.16a40.96 40.96 0 01-28.88 69.94z", "fill": "#FFF" } }] }; }, "name": "Full_icon_aa-12", "theme": "full" };
+exports.default = FullIconAa12Full;

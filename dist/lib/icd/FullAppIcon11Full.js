@@ -1,0 +1,5 @@
+"use strict";
+// This icon file is generated automatically.
+Object.defineProperty(exports, "__esModule", { value: true });
+var FullAppIcon11Full = { "icon": function render(primaryColor, secondaryColor) { return { "tag": "svg", "attrs": { "fill": "currentColor", "overflow": "hidden", "style": "width:1em;height:1em;vertical-align:middle", "viewBox": "0 0 1024 1024", "focusable": "false" }, "children": [{ "tag": "path", "attrs": { "d": "M208.98 1024h606.04c115.46 0 208.98-93.52 208.98-208.98V208.98C1024 93.52 930.48 0 815.02 0H208.98C93.52 0 0 93.52 0 208.98v606.04C0 930.48 93.52 1024 208.98 1024z", "fill": "#4BEB66" } }, { "tag": "path", "attrs": { "d": "M289.75 729.44c12.23 15.05 23.72 32.92 23.72 48.49 0 26.33-32.91 57.78-47.02 68.44 21.94-4.7 73.14-15.78 104.49-42.11 14.52-12.23 37.1-19.23 59.56-22.99 26.23 4.7 53.5 7.21 81.5 7.21 207.73 0 376.16-136.78 376.16-305.42 0-168.75-168.43-305.43-376.16-305.43S135.84 314.31 135.84 483.06c0 101.14 60.6 190.8 153.91 246.38z", "fill": "#FFF" } }] }; }, "name": "Full_app_icon-11", "theme": "full" };
+exports.default = FullAppIcon11Full;

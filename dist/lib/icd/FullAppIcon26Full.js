@@ -1,0 +1,5 @@
+"use strict";
+// This icon file is generated automatically.
+Object.defineProperty(exports, "__esModule", { value: true });
+var FullAppIcon26Full = { "icon": function render(primaryColor, secondaryColor) { return { "tag": "svg", "attrs": { "fill": "currentColor", "overflow": "hidden", "style": "width:1em;height:1em;vertical-align:middle", "viewBox": "0 0 1024 1024", "focusable": "false" }, "children": [{ "tag": "path", "attrs": { "d": "M208.98 1024h606.04c115.46 0 208.98-93.52 208.98-208.98V208.98C1024 93.52 930.48 0 815.02 0H208.98C93.52 0 0 93.52 0 208.98v606.04C0 930.48 93.52 1024 208.98 1024z", "fill": "#000" } }, { "tag": "path", "attrs": { "d": "M720.98 313.47l125.39-62.7v94.05L512 512l334.37 167.18v94.04l-125.39-62.69c0 34.59-28.1 62.7-62.7 62.7H240.34a62.74 62.74 0 01-62.7-62.7V585.14L323.92 512l-146.29-73.14V313.47c0-34.59 28.11-62.7 62.7-62.7h417.96c34.58 0 62.69 28.11 62.69 62.7zM417.96 559.02L177.63 679.18H658.3zm-240.33-214.2l240.33 120.16 240.33-120.16z", "fill": "#FFF" } }] }; }, "name": "Full_app_icon-26", "theme": "full" };
+exports.default = FullAppIcon26Full;
