@@ -1,0 +1,5 @@
+"use strict";
+// This icon file is generated automatically.
+Object.defineProperty(exports, "__esModule", { value: true });
+var ZipShadow = { "icon": { "tag": "svg", "attrs": { "viewBox": "0 0 48 48", "focusable": "false" }, "children": [{ "tag": "path", "attrs": { "clip-rule": "evenodd", "d": "M4.63 12.75L24 5l19.37 7.75a1 1 0 01.63.93V42a1 1 0 01-1 1H5a1 1 0 01-1-1V13.68a1 1 0 01.63-.93z", "stroke-linejoin": "round", "stroke-width": "4", "stroke": "currentColor" } }, { "tag": "path", "attrs": { "d": "M24 22v10", "stroke-linecap": "round", "stroke-width": "4", "stroke": "currentColor" } }, { "tag": "path", "attrs": { "clip-rule": "evenodd", "d": "M33 27c1.66 0 3-1.12 3-2.5S34.66 22 33 22h-2.7a.3.3 0 00-.3.3v2.2c0 1.38 1.34 2.5 3 2.5z", "stroke-width": "4", "stroke": "currentColor" } }, { "tag": "path", "attrs": { "d": "M30 22v10", "stroke-linecap": "round", "stroke-width": "4", "stroke": "currentColor" } }, { "tag": "path", "attrs": { "d": "M12 22h6l-6 10h6", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "4", "stroke": "currentColor" } }] }, "name": "zip", "theme": "shadow" };
+exports.default = ZipShadow;

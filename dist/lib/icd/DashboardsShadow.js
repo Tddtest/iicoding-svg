@@ -1,0 +1,5 @@
+"use strict";
+// This icon file is generated automatically.
+Object.defineProperty(exports, "__esModule", { value: true });
+var DashboardsShadow = { "icon": { "tag": "svg", "attrs": { "viewBox": "0 0 33 32", "focusable": "false" }, "children": [{ "tag": "path", "attrs": { "d": "M31.34 16.15c0-3.2-.13-5.8-.3-7.84-.32-3.6-3.02-6.3-6.61-6.6-2.05-.18-4.65-.31-7.84-.31-3.2 0-5.8.13-7.84.3-3.6.31-6.3 3.01-6.6 6.6-.18 2.05-.32 4.66-.32 7.85 0 3.32.15 6 .33 8.08A6.85 6.85 0 008.5 30.6c2.04.18 4.7.31 8.09.31 3.38 0 6.04-.13 8.08-.3a6.85 6.85 0 006.34-6.37c.19-2.08.33-4.76.33-8.08z", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", "stroke": "#7F76B3" } }, { "tag": "path", "attrs": { "d": "M30.77 9.63l-6.46 6.98c-.4.43-.97.66-1.55.62l-7.4-.45a1.95 1.95 0 00-1.67.77l-3.44 4.51c-.3.4-.74.66-1.23.74l-6.05 1.01", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", "stroke": "#7F76B3" } }, { "tag": "path", "attrs": { "d": "M23.68 17l7.66-7.38-.57 17.6-4.82 3.4-17.87.28-3.98-1.98-1.98-5.1 7.66-1.14 5.1-5.96 8.8.28z", "fill-opacity": ".1" } }] }, "name": "dashboards", "theme": "shadow" };
+exports.default = DashboardsShadow;

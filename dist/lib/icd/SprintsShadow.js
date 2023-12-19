@@ -1,0 +1,5 @@
+"use strict";
+// This icon file is generated automatically.
+Object.defineProperty(exports, "__esModule", { value: true });
+var SprintsShadow = { "icon": { "tag": "svg", "attrs": { "viewBox": "0 0 29 27", "focusable": "false" }, "children": [{ "tag": "path", "attrs": { "d": "M22 21c-1.28 0-2.33.02-3.16.05-1.54.06-2.84.9-2.84 2.45 0 1.55 1.3 2.4 2.84 2.45a93.8 93.8 0 006.32 0c1.55-.05 2.84-.9 2.84-2.45 0-1.55-1.3-2.4-2.84-2.45-.83-.03-1.88-.05-3.16-.05zM24 13.5v-.1c-.02-1.57-1.55-2.26-3.13-2.31a205.63 205.63 0 00-12.74 0c-1.58.05-3.1.74-3.13 2.32a6.95 6.95 0 000 .24c.03 1.54 1.53 2.22 3.07 2.26a207.52 207.52 0 0012.85 0c1.55-.04 3.05-.72 3.08-2.26v-.15zM7 1c-1.28 0-2.33.02-3.16.05C2.3 1.11 1 1.95 1 3.5c0 1.55 1.3 2.4 2.84 2.45a93.98 93.98 0 006.32 0C11.7 5.9 13 5.05 13 3.5c0-1.55-1.3-2.4-2.84-2.45C9.33 1.02 8.28 1 7 1z", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", "stroke": "#7F76B3" } }] }, "name": "sprints", "theme": "shadow" };
+exports.default = SprintsShadow;
