@@ -1,0 +1,5 @@
+"use strict";
+// This icon file is generated automatically.
+Object.defineProperty(exports, "__esModule", { value: true });
+var FullCopyFull = { "icon": function render(primaryColor, secondaryColor) { return { "tag": "svg", "attrs": { "viewBox": "0 0 1024 1024", "focusable": "false" }, "children": [{ "tag": "path", "attrs": { "d": "M223.85000000000002 265.37h402.58q133.12 0 133.12 133.12v402.59q0 133.12-133.12 133.12H223.85q-133.12 0-133.12-133.12V398.49q0-133.12 133.12-133.12z", "fill": "#4BE2AC" } }, { "tag": "path", "attrs": { "d": "M403.61 85.66H806.2q133.12 0 133.12 133.12v402.58q0 133.12-133.12 133.12H403.6q-133.12 0-133.12-133.12V218.78q0-133.12 133.12-133.12z", "fill": "#4BE2AC" } }, { "tag": "path", "attrs": { "d": "M623.51 265.37H270.5v353.28a136.04 136.04 0 00136.04 135.83h353.02V401.2a136.04 136.04 0 00-136.04-135.83z", "fill": "#06CC76" } }, { "tag": "path", "attrs": { "d": "M597.15 432.13H402.59a40.96 40.96 0 010-81.92h194.56a40.96 40.96 0 010 81.92z", "fill": "#FFF" } }] }; }, "name": "Full_copy", "theme": "full" };
+exports.default = FullCopyFull;
