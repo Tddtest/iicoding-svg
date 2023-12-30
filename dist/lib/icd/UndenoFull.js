@@ -1,0 +1,5 @@
+"use strict";
+// This icon file is generated automatically.
+Object.defineProperty(exports, "__esModule", { value: true });
+var UndenoFull = { "icon": function render(primaryColor, secondaryColor) { return { "tag": "svg", "attrs": { "viewBox": "0 0 1024 1024", "focusable": "false" }, "children": [{ "tag": "path", "attrs": { "d": "M512 0a512 512 0 01512 512 512 512 0 01-512 512A512 512 0 010 512 512 512 0 01512 0z", "fill": "#D7FFDB" } }, { "tag": "path", "attrs": { "d": "M512 102.4A409.6 409.6 0 01921.6 512 409.6 409.6 0 01512 921.6 409.6 409.6 0 01102.4 512 409.6 409.6 0 01512 102.4z", "fill": "#23E249" } }, { "tag": "path", "attrs": { "d": "M710.63 329.14a9.17 9.17 0 00-9.14-9.14l-75.43.34-113.6 135.43-113.49-135.31-75.54-.35a9.1 9.1 0 00-9.14 9.15c0 2.17.8 4.23 2.17 5.94l148.68 177.14-148.68 177.03a9.5 9.5 0 00-2.17 5.94 9.17 9.17 0 009.14 9.15l75.54-.35L512.46 568.7 625.94 704l75.43.34c5.03 0 9.14-4 9.14-9.14a9.5 9.5 0 00-2.17-5.94L559.9 512.23l148.68-177.14a9.17 9.17 0 002.06-5.95z", "fill": "#FFF" } }] }; }, "name": "undeno", "theme": "full" };
+exports.default = UndenoFull;
