@@ -1,0 +1,5 @@
+"use strict";
+// This icon file is generated automatically.
+Object.defineProperty(exports, "__esModule", { value: true });
+var FullDebug1Full = { "icon": function render(primaryColor, secondaryColor) { return { "tag": "svg", "attrs": { "viewBox": "0 0 1024 1024", "focusable": "false" }, "children": [{ "tag": "path", "attrs": { "d": "M68.92000000000002 506.98a450.82 450.82 0 10901.63 0 450.82 450.82 0 10-901.63 0z", "fill": "#FFE1E9" } }, { "tag": "path", "attrs": { "d": "M218.37 261.85L299.52 343h425.62l80.55-80.55.74.75a64 64 0 01-.74 89.76L771 387.65V524h130a64 64 0 01-64 64h-66v62c0 22.75-2.92 44.8-8.4 65.83l88.34 88.36a64 64 0 01-90.5 0L736.22 780C696.5 848.67 626.23 897.5 544 907.91V417h-64v491.17c-82.4-9.79-152.98-58.11-193.2-126.44l-23.18 23.17a64 64 0 01-90.5 0l86.87-86.88c-5.5-20.36-8.6-41.7-8.95-63.72L251 650v-62h-66a64 64 0 01-64-64h130V384.99l-32.63-32.63a64 64 0 01-.74-89.76l.74-.75zM512 113c93.89 0 170 76.11 170 170H342c0-93.89 76.11-170 170-170z", "fill": "#FF4D7C" } }] }; }, "name": "FullDebug1", "theme": "full" };
+exports.default = FullDebug1Full;
